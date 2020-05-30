@@ -428,7 +428,7 @@ App = {
 
     $("#content").load("Appointment.html", function () {
       $("#ScheduleNewCont").hide();
-      $("#sliderbarContainer").load("AdminSliderbarContainer.html");
+      $("#sliderbarContainer").load("DoctorSliderbarContainer.html");
 
       $("#AppointmentCardContainer").empty();
       App.contracts.EMR.deployed()
