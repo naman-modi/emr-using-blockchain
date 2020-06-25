@@ -2,4 +2,7 @@
 
 Leveraging blockchain technology for Electronic Medical Record (EMR)
 
-The project is still work in progress. [10% left]
+Contains the following views:
+- Administrator View
+- Patient/Citizen View
+- Doctor View
